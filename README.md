@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+const thai = {
+  pronouns: "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node,Styled-Components, IONI],
+  architecture: ["My SQL", "Firebase"],
+                    
+ 
+}
+
 <!--
 **chamocell/chamocell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
